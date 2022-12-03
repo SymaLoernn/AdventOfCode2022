@@ -11,7 +11,8 @@ public class Utils {
     // Stocker les inputs dans : inputFolder/puzzleName/inputFileName
     // Dans mon cas pour le premier jour : C:\dev\AoC\input\1-A\input.txt
 
-    private static final String inputFolder = "C:\\dev\\AoC\\input";
+    private static final String inputFolder = "D:\\Data\\AoC\\input";
+    private static final String altInputFolder = "C:\\dev\\AoC\\input";
     private static final String inputFileName = "input.txt";
 
     public static Stream<String> getStreamInput(String puzzleName)

@@ -1,12 +1,13 @@
 import solvers.Solver;
 import solvers.SolverDay1;
 import solvers.SolverDay2;
+import solvers.SolverDay3;
 
 public class Main {
 
 
     public static void main(String[] args) {
-        Solver solver = new SolverDay2();
+        Solver solver = new SolverDay3();
         System.out.println(solver.getIntroString());
         System.out.println("Puzzle A : " + solver.solvePuzzleA());
         System.out.println("Puzzle B : " + solver.solvePuzzleB());
