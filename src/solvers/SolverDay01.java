@@ -7,7 +7,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.Arrays;
 
-public class SolverDay1 implements Solver {
+public class SolverDay01 implements Solver {
 
     @Override
     public String getIntroString() {

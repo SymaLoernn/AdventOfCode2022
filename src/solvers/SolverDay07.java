@@ -6,7 +6,7 @@ import utils.Utils;
 import java.io.BufferedReader;
 import java.io.IOException;
 
-public class SolverDay7 implements Solver {
+public class SolverDay07 implements Solver {
     @Override
     public String getIntroString() {
         return "Day 7 :";

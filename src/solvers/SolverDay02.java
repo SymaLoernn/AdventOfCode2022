@@ -5,7 +5,7 @@ import utils.Utils;
 import java.io.BufferedReader;
 import java.io.IOException;
 
-public class SolverDay2 implements Solver {
+public class SolverDay02 implements Solver {
 
     final int SCORE_X_ROCK = 1;
     final int SCORE_Y_PAPER = 2;

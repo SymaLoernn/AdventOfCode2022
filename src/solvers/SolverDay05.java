@@ -9,7 +9,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Stack;
 
-public class SolverDay5 implements Solver{
+public class SolverDay05 implements Solver{
     @Override
     public String getIntroString() {
         return "Day 5 : ";
