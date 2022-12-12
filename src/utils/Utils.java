@@ -22,6 +22,6 @@ public class Utils {
 
     public static BufferedReader getBufferInput(String puzzleName)
             throws IOException {
-        return Files.newBufferedReader(Paths.get(inputFolder, puzzleName, inputFileName));
+        return Files.newBufferedReader(Paths.get(altInputFolder, puzzleName, inputFileName));
     }
 }
